@@ -5,6 +5,6 @@ import App from './App';
 // type Foo = JSX.IntrinsicAttributes;
 
 ReactDOM.render(
-  <App message="Hello, React!"/>,
+  <App />,
   document.getElementById('root')
 );
